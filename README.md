@@ -20,5 +20,5 @@ Compatibilité :
 
 Contributeurs :
 
--	Alison Demolle
+-	AD
 -	Linda Laskri
